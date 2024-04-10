@@ -3,5 +3,7 @@
 
     <string name="top_bar_image_description">Logo image</string>
     <string name="top_bar_logo_text">LOCATIONS</string>
-    <string name="top_bar_location_text">LOCATIONS</string>
+    <string name="top_bar_location_text">Streets</string>
+
+    <string name="bottom_bar_settings_image_description">Settings image</string>
 </resources>
