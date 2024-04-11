@@ -6,4 +6,5 @@
     <string name="top_bar_location_text">Streets</string>
 
     <string name="bottom_bar_settings_image_description">Settings image</string>
+    <string name="add_photos_button_image_description">Add photos button image</string>
 </resources>
